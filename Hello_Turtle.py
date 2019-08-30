@@ -4,7 +4,7 @@ my_turtle = turtle.Turtle()  # creates turtle
 my_turtle.color('purple')    # turns turtle purple
 my_turtle.rt(-150)
 my_turtle.circle(120,60)     # draws cat head
-my_turtle.setheading(120)   # draws left cat ear
+my_turtle.setheading(120)    # draws left cat ear
 my_turtle.forward(70)
 my_turtle.setheading(-120)
 my_turtle.forward(70)
